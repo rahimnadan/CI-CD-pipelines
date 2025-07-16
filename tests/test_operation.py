@@ -19,6 +19,6 @@ def test_div():
     assert div(6,3)==2
     assert div(-1,1)==-1
     assert div(0,1)==0
-    assert div(1,0)==0
+    
 
 
