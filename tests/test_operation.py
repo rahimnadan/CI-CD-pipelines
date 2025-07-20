@@ -3,6 +3,7 @@ from src.math_operations import add,sub,mul,div
 def test_add():
     assert add(2,3)==5
     assert add(-1,1)==0
+    assert add(99,5)==104
     
 def test_sub():
     assert sub(5,3)==2
